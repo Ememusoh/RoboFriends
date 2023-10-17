@@ -14,4 +14,8 @@ RoboFriends is a sleek and user-friendly web application that allows you to find
 3. Filter Your Search: Use the powerful filtering options to narrow down the results based on your preferences.
 4. Connect with Robots: Once you find the robots you are interested in, click on their profiles to connect or learn more about them.
 
+### Home page: 
+![Home page](RobotFriend.png)
 
+## Search Box
+![Search Box](image.jpg)
