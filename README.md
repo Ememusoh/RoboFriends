@@ -18,4 +18,6 @@ RoboFriends is a sleek and user-friendly web application that allows you to find
 ![Home page](RobotFriend.png)
 
 ## Search Box
-![Search Box](image.jpg)
+![Search Box](Search1.png)
+
+![Search Box](Search2.png)
