@@ -9,7 +9,7 @@ RoboFriends is a sleek and user-friendly web application that allows you to find
 - Real-time Data: Connects to an API to ensure you get the most up-to-date and accurate information.
 - Responsive Design: RoboFriends is optimized for various devices, providing a consistent experience across desktops, tablets, and smartphones.
 ## How to Use 🤔
-1. Visit the RoboFriends Website: Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Visit the RoboFriends Website: Open [ https://ememusoh.github.io/RoboFriends/](https://ememusoh.github.io/RoboFriends/) to view it in your browser.
 2. Explore the Database: Browse through the extensive list of robots to see their usernames and emails.
 3. Filter Your Search: Use the powerful filtering options to narrow down the results based on your preferences.
 4. Connect with Robots: Once you find the robots you are interested in, click on their profiles to connect or learn more about them.
